@@ -1,0 +1,3 @@
+此文件夹保存了重建图像经unet后处理得到的结果
+disc, vessel, shepplogan分别保存了圆盘数据集、血管数据集、shepp-logan数据集的结果
+shepplogan_finetuning保存了经微调后unet后处理得到的结果
